@@ -33,13 +33,14 @@ pip install -r requirements.txt
 ```
 
 ## Project Structure
+```plain
 <22120017>/
 ├── docs/
 │   └── Report.pdf
 ├── src/
 │   ├── Classification/
 │   │   ├── Structured_API/
-│   │   │   └── Strutured_API_Fraud.ipynb
+│   │   │   └── Structured_API_Fraud.ipynb
 │   │   ├── MLlib_RDD_Based/
 │   │   │   └── MLlib_RDD_Fraud.ipynb
 │   │   └── Low_Level/
@@ -52,4 +53,5 @@ pip install -r requirements.txt
 │       └── Low_Level/
 │           └── Low_Level.ipynb
 └── README.md
+```
 
